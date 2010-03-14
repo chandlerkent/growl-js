@@ -1,0 +1,10 @@
+{
+    "name": "growl-js",
+    "author": "Chandler Kent",
+    "description": "A Javascript bridge to send growl notifications.",
+    "keywords": [
+        "growl",
+        "notifications"
+    ],
+    "version": "0.1"
+}
